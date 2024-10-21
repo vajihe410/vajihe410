@@ -31,7 +31,10 @@
 <h3 align="left">Find me around the web:</h3>
 <p>
   <a href="https://instagram.com/-learndesign-" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&amp;logoColor=white" alt="Instagram"></a>
-  <a href="https://linkedin.com/in/vajihe-ahmadi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a></p>
+  <a href="https://linkedin.com/in/vajihe-ahmadi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:learndesign2000@gmail.com"><img src="https://camo.githubusercontent.com/425fb199417e4ecbfd9d48e0adc76f1ffd1110fcc0a806692e48201fe8c8f594/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d476d61696c2d6331343433383f7374796c653d666c61742d737175617265266c6f676f3d476d61696c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&amp;logo=Gmail&amp;logoColor=white" style="max-width: 100%;"></a>
+  <a href="https://github.com/vajihe410"><img src="https://camo.githubusercontent.com/d34cd6565123b934e7feeb179680d56938c9076120cd01b67ce6d7ad73c89fb0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769746875622d3030303f7374796c653d666c61742d737175617265266c6f676f3d476974687562266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Github-000?style=flat-square&amp;logo=Github&amp;logoColor=white" style="max-width: 100%;"></a>
+</p>
 <p align="left">
 <hr/>
 <h3 align="left">GitHub Stats:</h3>
