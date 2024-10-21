@@ -1,5 +1,8 @@
 <h1 align="center">Hi, I'm Vajihe :)</h1>
 <h3 align="center">A passionate Front-End developer & UX/UI designer</h3>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2a1948fb-1333-4b2c-9a6c-24c991ec4298" alt="cat" style="width:200px"/>
+</p>
 <hr/>
 <h3 align="left">Frontend Development:</h3>
 <div>
